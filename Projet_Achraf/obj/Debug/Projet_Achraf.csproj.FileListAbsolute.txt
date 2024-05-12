@@ -1,0 +1,12 @@
+D:\V_S\Projet_Achraf\Projet_Achraf\obj\Debug\ResolveAssemblyReference.cache
+D:\V_S\Projet_Achraf\Projet_Achraf\obj\Debug\Projet_Achraf.FLogin.resources
+D:\V_S\Projet_Achraf\Projet_Achraf\obj\Debug\Projet_Achraf.FMedecin.resources
+D:\V_S\Projet_Achraf\Projet_Achraf\obj\Debug\Projet_Achraf.Properties.Resources.resources
+D:\V_S\Projet_Achraf\Projet_Achraf\obj\Debug\Projet_Achraf.csproj.GenerateResource.Cache
+D:\V_S\Projet_Achraf\Projet_Achraf\obj\Debug\Projet_Achraf.SingUp.resources
+D:\V_S\Projet_Achraf\Projet_Achraf\obj\Debug\Projet_Achraf.APatient.resources
+D:\V_S\Projet_Achraf\Projet_Achraf\bin\Debug\Projet_Achraf.exe
+D:\V_S\Projet_Achraf\Projet_Achraf\bin\Debug\Projet_Achraf.pdb
+D:\V_S\Projet_Achraf\Projet_Achraf\obj\Debug\Projet_Achraf.exe
+D:\V_S\Projet_Achraf\Projet_Achraf\obj\Debug\Projet_Achraf.pdb
+D:\V_S\Projet_Achraf\Projet_Achraf\obj\Debug\Projet_Achraf.Invoices.resources
